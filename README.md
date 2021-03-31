@@ -1,2 +1,2 @@
-# Cordova
-I just want to create an app
+# Cordova Mobile App
+I have created an app for instagram users.
